@@ -1,0 +1,6 @@
+https://blog.naver.com/hwankko27/222444862157
+
+report link
+
+1) Gaussain Filter
+2) Bilinear interpolation
