@@ -1,0 +1,5 @@
+https://blog.naver.com/hwankko27/222446661786
+
+Goal
+1. Derivative of Gaussian filter
+2. make DoG mask shape
