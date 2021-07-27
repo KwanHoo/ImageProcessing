@@ -1,0 +1,9 @@
+docs : report link
+
+https://blog.naver.com/hwankko27/222447752576
+
+GOAL
+
+1) non_maximum_suppression
+2) double_thresholding
+3) canny_edge_detection
