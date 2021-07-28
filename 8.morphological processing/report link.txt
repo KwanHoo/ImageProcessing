@@ -1,0 +1,13 @@
+docs : Morphological Processing Report link
+
+https://blog.naver.com/hwankko27/222448396361
+
+GOAL
+
+do 4neighborhood prac
+do morphology
+
+1) Dilation
+2) Erosion
+3) Opening
+4) Closing
