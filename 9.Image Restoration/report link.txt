@@ -1,0 +1,9 @@
+docs: Adaptive Filtering Report link
+
+https://blog.naver.com/hwankko27/222449515749
+
+GOAL
+
+1) Image Restoreation
+2) Gaussian noise
+3) Adaptive Filtering : Bilateral Filter
