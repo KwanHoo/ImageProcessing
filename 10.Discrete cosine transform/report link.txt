@@ -1,0 +1,8 @@
+docs: Discrete cosin transform
+
+https://blog.naver.com/hwankko27/222450837547
+
+GOAL
+
+1) Discrete cosin transform
+2) make DCT_mask shape
