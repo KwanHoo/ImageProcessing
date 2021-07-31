@@ -1,0 +1,11 @@
+docs: Joint Photographic Experts Group
+
+https://blog.naver.com/hwankko27/222452052874
+
+GOAL
+
+1) zigzag scanning
+2) encoding
+3) decode zigzag
+4) decoding
+5) DCT_inverse
