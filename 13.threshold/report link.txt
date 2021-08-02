@@ -1,0 +1,9 @@
+docs: threshold
+
+https://blog.naver.com/hwankko27/222454333740
+
+GOAL
+
+1. histogram
+2. binary segmentation
+3. Meat image threshold
