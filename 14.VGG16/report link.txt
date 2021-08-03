@@ -1,0 +1,10 @@
+docs: VGG16 report link
+
+https://blog.naver.com/hwankko27/222455748392
+
+GOAL
+
+1) make VGG16 model
+2) hyperparameter tuning
+(hyperparameter optimization)
+3) CIFAR-10
