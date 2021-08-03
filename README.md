@@ -64,3 +64,9 @@ report link: https://blog.naver.com/hwankko27/222453303270
 2. binary segmentation
 3. Meat image threshold  
 report link: https://blog.naver.com/hwankko27/222454333740
+
+## VGGNet, VGG16 모델 구현
+1. VGG16 Model  
+2. hyperparameter tuning(optimization)  
+3. CIFAR-10  
+4. report link: https://blog.naver.com/hwankko27/222455748392
