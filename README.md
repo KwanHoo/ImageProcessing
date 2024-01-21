@@ -1,6 +1,8 @@
 # ImageProcessing
 Practice and test Code
 
+![image](https://github.com/KwanHoo/self-directed-learning/assets/49335804/a329d9be-2e27-436b-88ed-d697f0be7c43)
+
 ## BGR 영상을 gary scale로 변환
 
 ## Histogram 구현
